@@ -3,7 +3,7 @@
     {
         "env_name":"prod",
         "pipeline_name":"pipeline",
-        "zone_name":"zone",
+        "zone_name":"pipelineZone",
         "X": "something"
     }
 }

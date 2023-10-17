@@ -15,7 +15,7 @@
     [
         {
             "substep_name":"substep_full.ipynb",
-            "params":
+            "substep_params":
             {
                 "param1":"None1",
                 "param2":"None2"
