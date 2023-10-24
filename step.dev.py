@@ -1,6 +1,3 @@
-import os
-os.environ["INFRA_NAME"] = "local_filesystem"
-
 from sinara.step import Step
 from sinara.step import StepSafeguard as sg
 
